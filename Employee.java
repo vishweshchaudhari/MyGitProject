@@ -9,7 +9,7 @@ import javax.xml.bind.annotation.XmlRootElement;
 @XmlRootElement
 public class Employee {
 
-	void mymethod{
+	public static void mymethod{
 	
 
 	}
