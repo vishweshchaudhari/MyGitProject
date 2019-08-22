@@ -11,7 +11,7 @@ public class Employee {
 
 
 	private static void mymethod (){
-
+		System.out.println("ha ha ");
 	}
 	private int empId;
 
