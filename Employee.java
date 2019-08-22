@@ -8,6 +8,11 @@ import java.sql.Date;
 import javax.xml.bind.annotation.XmlRootElement;
 @XmlRootElement
 public class Employee {
+
+	void mymethod{
+	
+
+	}
 	private int empId;
 
 	public int getEmpId() {
